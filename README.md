@@ -1,3 +1,7 @@
+State mangaement: Riverpod
+How to run : Just clik on run and build automaticly 
+Flutter version used: 3.38.9
+
 # store_demo
 
 A new Flutter project.
